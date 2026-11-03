@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  background: #f6efe6;
+  color: #3b2a20;
+}
+
+.notice {
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  background: #3b2a20;
+  color: #fff;
+  font-size: 14px;
+}
+
+.card {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* simple round logo */
+.logo {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #c47a3d;
+  border: 6px solid #f2d3b3;
+}
+
+h1 {
+  margin: 16px 0 8px;
+  color: #c47a3d;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+footer {
+  text-align: center;
+  font-size: 13px;
+  color: #8a7565;
+  padding-bottom: 24px;
+}

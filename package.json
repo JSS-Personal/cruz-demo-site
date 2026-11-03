@@ -1,0 +1,9 @@
+{
+  "name": "cruz-demo-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo site with planted security issues, for showing Cruz Control's scan compare",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
